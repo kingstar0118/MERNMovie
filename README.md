@@ -2,12 +2,6 @@
 
     Fullstack Responsive Movie Website 2022
 
-# Video tutorial
-
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
-
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
